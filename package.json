@@ -1,4 +1,8 @@
 {
+  "type": "module",
+  "scripts": {
+    "dev": "node app.js"
+  },
   "dependencies": {
     "express": "^4.18.2"
   }
