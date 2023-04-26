@@ -2,7 +2,7 @@ import express from "express";
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("2nd!");
+  res.send("3nd!");
 });
 
 app.post("/", (req, res) => {
